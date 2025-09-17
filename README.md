@@ -1,9 +1,17 @@
 ##👋 Hey! I'm Franco Espinoza
+Student of the University Technical Degree in Programming at the National University of Salta (UNSa).
+Passionate about technology, web development, and Web3, I am working on personal Full Stack MERN and PERN projects.
+I am also exploring the blockchain Web3 ecosystem with Sui, and planning to learn Solidity next.
 
 ### 🛠️ Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
+
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fran1107&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran1107&layout=compact&theme=radical)
 
 
 <!--
