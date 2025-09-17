@@ -9,8 +9,6 @@ I am also exploring the blockchain Web3 ecosystem with Sui, and planning to lear
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fran1107&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fran1107&layout=compact&theme=radical)
 
 
