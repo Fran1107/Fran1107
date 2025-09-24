@@ -20,7 +20,7 @@
 
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_rounded.gif" alt="Developer" width="250"/>
+      <img src="[https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_rounded.gif](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NzcwNjIsIm5iZiI6MTc1ODY3Njc2MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI0VDAxMTkyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZTU2NTE3NDgwMGE2OTcyMTk4YzI1MzM4YzllZTRjMjFiMzdmNzEyMGY2N2VjNjhmMzFlNmY3MGNiN2E1NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zf1JZ3BqH8loE_1iHKsrJIC7uBUDtfH0JOIHmp0Di74)" alt="Developer" width="250"/>
     </td>
   </tr>
 </table>
@@ -43,13 +43,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)  
 
 ### 🛠️ Tools & Others  
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=for-the-badge&logo=surfshark&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=for-the-badge&logo=surfshark&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
 
