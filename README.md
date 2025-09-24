@@ -1,8 +1,30 @@
 👋 Hey! I'm Franco Espinoza  
 
-🎓 Student of the **University Technical Degree in Programming** at the **National University of Salta (UNSa)**.  
-💻 Passionate about **technology, web development, and Web3**, currently building personal **Full Stack MERN and PERN projects**.  
-🌐 Exploring the **Web3 blockchain ecosystem** with **Sui**, and planning to dive into **Solidity** soon.  
+👨‍💻 About me  
+
+<table>
+  <tr>
+    <td>
+      
+🎓 Student of **University Technical Degree in Programming** at **Universidad Nacional de Salta (UNSa)**.  
+
+💻 Passionate about **web development**, currently working on **Full Stack MERN and PERN projects**.  
+
+🌐 Exploring the **Web3 ecosystem** with **Sui**, and planning to learn **Solidity** soon.  
+
+🚀 My goal is to grow as a **Full Stack Web Developer**, mastering both frontend and backend.  
+
+- 📚 Constantly learning new technologies  
+- ⚡ I enjoy solving problems and building useful applications  
+- 🛠️ Always experimenting with new projects to strengthen my knowledge  
+
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_rounded.gif" alt="Developer" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -21,7 +43,13 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)  
 
 ### 🛠️ Tools & Others  
-[![My Skills](https://skillicons.dev/icons?i=vscode,windsurf,git,github,postman,eclipse,trello)](https://skillicons.dev)  
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Windsurf](https://img.shields.io/badge/Windsurf-00ADEF?style=for-the-badge&logo=surfshark&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
 
