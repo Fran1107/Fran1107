@@ -20,10 +20,20 @@
 
     </td>
     <td>
-      <img src="[https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_rounded.gif](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2NzcwNjIsIm5iZiI6MTc1ODY3Njc2MiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI0VDAxMTkyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZTU2NTE3NDgwMGE2OTcyMTk4YzI1MzM4YzllZTRjMjFiMzdmNzEyMGY2N2VjNjhmMzFlNmY3MGNiN2E1NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zf1JZ3BqH8loE_1iHKsrJIC7uBUDtfH0JOIHmp0Di74)" alt="Developer" width="250"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Coding gif" width="250"/>
     </td>
   </tr>
 </table>
+
+---
+
+## 🎨 Extras  
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="250" alt="Developer working"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" width="250" alt="Programming fun"/>
+</div>
+
 
 
 ---
