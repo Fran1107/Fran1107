@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About me  
 
-<table>
-<tr>
-<td width="70%">
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJmbndkcmpyY25obHN6NWwzZWtxODJkMjZuMGo2MGd1aHM5MjRkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="230" align="right" alt="Coding gif"/>
+</div>
 
 🎓 Student of **University Technical Degree in Programming** at **Universidad Nacional de Salta (UNSa)**.  
 
@@ -18,26 +18,23 @@
 - ⚡ I enjoy solving problems and building useful applications  
 - 🛠️ Always experimenting with new projects to strengthen my knowledge  
 
-</td>
-<td align="center" width="30%">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Coding gif" width="250"/>
-</td>
-</tr>
-</table>
 
-
+<!--
 ---
 
 ## 🎨 Extras  
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="250" alt="Developer working"/>
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" width="250" alt="Programming fun"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh3dTVoZGUwMjA3aThxb2kzMWtkODU3NGYwaTcyeXhzbGx4MjhzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="250" alt="Funny gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Coding gif" width="250"/>
 </div>
 
 ---
+-->
 
 ## 🛠️ Tech Stack  
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenh3dTVoZGUwMjA3aThxb2kzMWtkODU3NGYwaTcyeXhzbGx4MjhzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="200" align="right" alt="Funny gif"/>
 
 ### 🚀 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -47,7 +44,7 @@
 
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)                                                              
 
 ### 🐍 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
