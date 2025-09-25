@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About me  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
+<table>
+<tr>
+<td width="70%">
 
 🎓 Student of **University Technical Degree in Programming** at **Universidad Nacional de Salta (UNSa)**.  
 
@@ -18,11 +18,13 @@
 - ⚡ I enjoy solving problems and building useful applications  
 - 🛠️ Always experimenting with new projects to strengthen my knowledge  
 
-</div>
+</td>
+<td align="center" width="30%">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Coding gif" width="250"/>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Coding gif" width="250" style="margin-left: 20px;"/>
-
-</div>
 
 ---
 
